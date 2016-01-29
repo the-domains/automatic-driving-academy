@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Automatic Driving Academy]]></title>
+        <description><![CDATA[Automatic Driving Academy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 29 Jan 2016 13:31:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hello World</p>]]></description>
+            <link>undefinedf83b1983-496a-4ad4-bfa4-d1bdf940cc1d/index.html</link>
+            <guid isPermaLink="false">f83b1983-496a-4ad4-bfa4-d1bdf940cc1d</guid>
+            <pubDate>Fri, 29 Jan 2016 13:31:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
